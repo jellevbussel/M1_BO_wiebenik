@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    padding:0;
+}
+.center{
+    margin: auto;
+    background-color: whitesmoke;
+    width: 50%;
+    height: 100%;
+}
+body{
+    background-image: url(./1Afbeelding\ van\ WhatsApp\ op\ 2024-10-01\ om\ 12.30.09_61a4052c.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.title1{
+    text-align: center;
+    font-size: 19pt;
+}
+.title2{
+    margin-top: 6cm;
+    margin-left: 3cm;
+}
+.title3{
+    margin-top: 3cm;
+    margin-left: 3cm;
+}
+.titel4{
+    margin-top: 3cm;
+    margin-left: 3cm;
+}
+.foto1{
+    display:block;
+    float:left;
+    border-radius: 50%;
+    height: 350px;
+    width: 301px;
+    margin-left: 2cm;   
+}
+.foto2{
+    height: 250px;
+    width: 301px;
+    margin-left: 12cm;
+    margin-top: 0cm;
+}
+.foto3{
+    width: 301px;
+    width: 370px;
+    margin-top: 2cm;
+    margin-left: 3cm;
+}
+.foto4{
+    height: 340;
+    width: 270;
+    margin-top: 1cm;
+    margin-left: 14cm;
+}
+.tekst{
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    padding: 5px;
+    width: 300px;
+    margin-left: 12cm;
+    margin-top: 2cm;
+}
+
+.tekst1{
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    padding: 5px;
+    width: 300px;
+    margin-top: -5cm;
+    margin-left: 3cm;
+}
+
+.tekst2{
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    padding: 5px;
+    width: 300px;
+    margin-top: -6cm;
+    margin-left: 14cm;
+}
+.tekst3{
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    padding: 5px;
+    text-align: justify;
+    width: 300px;
+    margin-top: -5cm;
+    margin-left: 3cm;
+}
+.title5{
+    text-align: center;
+    margin-top: 3cm;
+}
+.tekst4{
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    padding: 5px;
+    text-align: justify;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.menusect {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
